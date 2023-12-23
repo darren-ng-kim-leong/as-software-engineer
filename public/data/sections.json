@@ -11,13 +11,18 @@
         },
 
         {
-            "id": "showcase",
-            "faIcon": "fa-solid fa-images"
+            "id": "skills",
+            "faIcon": "fa-solid fa-tools"
         },
 
         {
-            "id": "more",
-            "faIcon": "fa-solid fa-plus"
+            "id": "hobbies",
+            "faIcon": "fa-solid fa-heart"
+        },
+
+        {
+            "id": "contact",
+            "faIcon": "fa-solid fa-pen-to-square"
         }
     ],
 
@@ -32,22 +37,6 @@
         },
 
         {
-            "id": "education",
-            "categoryId": "background",
-            "component": "TimelineSection",
-            "jsonPath": "data/sections/education.json",
-            "faIcon": "fa-solid fa-graduation-cap"
-        },
-
-        {
-            "id": "skills",
-            "categoryId": "showcase",
-            "component": "InfoSection",
-            "jsonPath": "data/sections/skills.json",
-            "faIcon": "fa-solid fa-tools"
-        },
-
-        {
             "id": "experience",
             "categoryId": "background",
             "component": "TimelineSection",
@@ -56,24 +45,24 @@
         },
 
         {
-            "id": "portfolio",
-            "categoryId": "showcase",
-            "component": "GallerySection",
-            "jsonPath": "data/sections/portfolio.json",
-            "faIcon": "fa-solid fa-folder-open"
+            "id": "skills",
+            "categoryId": "skills",
+            "component": "InfoSection",
+            "jsonPath": "data/sections/skills.json",
+            "faIcon": "fa-solid fa-tools"
         },
 
         {
-            "id": "achievements",
-            "categoryId": "showcase",
-            "component": "ThreadsSection",
-            "jsonPath": "data/sections/achievements.json",
-            "faIcon": "fa-solid fa-award"
+            "id": "education",
+            "categoryId": "background",
+            "component": "TimelineSection",
+            "jsonPath": "data/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap"
         },
 
         {
             "id": "hobbies",
-            "categoryId": "more",
+            "categoryId": "hobbies",
             "component": "InfoSection",
             "jsonPath": "data/sections/hobbies.json",
             "faIcon": "fa-solid fa-heart"
@@ -81,7 +70,7 @@
 
         {
             "id": "contact",
-            "categoryId": "more",
+            "categoryId": "contact",
             "component": "ContactSection",
             "jsonPath": "data/sections/contact.json",
             "faIcon": "fa-solid fa-pen-to-square"
