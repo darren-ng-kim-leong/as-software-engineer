@@ -13,7 +13,7 @@
             "period": ["2008/01", "2010/03"],
             "locales": {
                 "en": {
-                    "title": "TODO NKL get icons for companiesSystem Analyst",
+                    "title": "System Analyst",
                     "description": "Being my first job, this attachment has landed me with bountiful experiences in terms of project management and user-centered programming. Major exposure technically, especially on Web-based Java programming language and MS SQL database. Was involved in 5 projects through the course of the attachment, excluding prototype-based."
                 }
             }
@@ -37,8 +37,8 @@
             "period": ["2017/01", "2023/11"],
             "locales": {
                 "en": {
-                    "title": "TODO NKL contentTechnical Team Lead",
-                    "description": "Lorem Ipsum."
+                    "title": "Technical Team Lead",
+                    "description": "I joined G2G as a Senior Software Engineer, and worked my way up to Technical Team Lead.<br /><br />In the years of service in G2G, one of the first project I was involved in was the payment architecture and flow that powers all of the payment transactions going into G2G (Online Gamer's Marketplace) and OffGamers (Online Gift Card Store). The project eventually evolved into a standalone system by itself with many more services being introduced into it, with me as the core engineer and the technical lead. The primary focus for this system is the security and the reliability of the payment system and the integration with our payment gateway partners.<br /><br />I was also involved in the development and maintenance of the order system in G2G marketplace, with strong knowledge on order processing and fulfillment process."
                 }
             }
         }

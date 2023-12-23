@@ -13,7 +13,7 @@
             "progress": null,
             "faIcon": "fa-solid fa-square",
             "locales": {
-                "en": {"title": "TODO NKL set nice descriptionsnull"}
+                "en": {"title": null}
             }
         },
 
@@ -23,7 +23,17 @@
             "progress": "number",
             "faIcon": "fa fa-code",
             "locales": {
-                "en": {"title": "TODO NKL set correct rate and yr of expProgramming"}
+                "en": {"title": "Programming"}
+            }
+        },
+
+        {
+            "id": "technologies",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-microchip",
+            "locales": {
+                "en": {"title": "Technologies"}
             }
         },
 
@@ -42,7 +52,7 @@
             "progress": null,
             "faIcon": "fa fa-marker",
             "locales": {
-                "en": {"title": "TODO NKL set nice descriptionsBonus Skills"}
+                "en": {"title": "Bonus Skills"}
             }
         }
     ],
@@ -51,47 +61,47 @@
         "abilities": [
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-paint-roller",
+                "faIcon": "fas fa-stream",
                 "value": null,
                 "locales": {
                     "en": {
                         "title": "Setup CI Pipeline",
-                        "description": ""
+                        "description": "Gitlab CI and Github Actions. This resume is built and deployed using Github Actions!"
                     }
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-mobile-alt",
+                "faIcon": "fas fa-server",
                 "value": null,
                 "locales": {
                     "en": {
                         "title": "End-to-end Solution and System Architecting",
-                        "description": ""
+                        "description": "Ground-up solution and system architecture design, focusing on efficiency and maintainability."
                     }
                 }
             },
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-check-double",
+                "faIcon": "fas fa-database",
                 "value": null,
                 "locales": {
                     "en": {
                         "title": "Data Design",
-                        "description": ""
+                        "description": "Access-pattern-centric data design."
                     }
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-vector-square",
+                "faIcon": "fas fa-cloud",
                 "value": null,
                 "locales": {
                     "en": {
                         "title": "Cloud System and Service Administration",
-                        "description": ""
+                        "description": "Maintain, secure, and administer Cloud systems and services."
                     }
                 }
             }
@@ -101,9 +111,9 @@
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-html5",
-                "value": 95,
+                "value": 90,
                 "locales": {
-                    "en": {"title": "HTML 5", "description": "Experience Time: 5 years"}
+                    "en": {"title": "HTML 5", "description": "Experience Time: 7 years"}
                 }
             },
 
@@ -112,79 +122,113 @@
                 "faIcon": "fab fa-css3-alt",
                 "value": 90,
                 "locales": {
-                    "en": {"title": "CSS 3", "description": "Experience Time: 3 years"}
+                    "en": {"title": "CSS 3", "description": "Experience Time: 7 years"}
                 }
             },
 
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-sass",
-                "value": 65,
+                "value": 80,
                 "locales": {
-                    "en": {"title": "Sass/Less", "description": "Experience Time: 2 years"}
+                    "en": {"title": "Sass/Less", "description": "Experience Time: 5 years"}
                 }
             },
 
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-js-square",
-                "value": 85,
+                "value": 95,
                 "locales": {
-                    "en": {"title": "Web JavaScript", "description": "Experience Time: 3 years"}
+                    "en": {"title": "Web JavaScript", "description": "Experience Time: 15 years"}
                 }
             },
 
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-vuejs",
-                "value": 100,
+                "value": 70,
                 "locales": {
-                    "en": {"title": "Vue 3", "description": "Experience Time: 2 years"}
+                    "en": {"title": "Vue 3", "description": "Experience Time: 4 years"}
                 }
             },
 
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-php",
-                "value": 75,
+                "value": 100,
                 "locales": {
-                    "en": {"title": "PHP", "description": "Experience time: 1 year"}
+                    "en": {"title": "PHP", "description": "Experience time: 15 year"}
                 }
             },
 
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-python",
-                "value": 75,
+                "value": 70,
                 "locales": {
-                    "en": {"title": "Python", "description": "Experience time: 1 year"}
+                    "en": {"title": "Python", "description": "Experience time: 2 year"}
                 }
             },
 
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-database",
-                "value": 75,
+                "value": 100,
                 "locales": {
-                    "en": {"title": "MySQL", "description": "Experience time: 1 year"}
+                    "en": {"title": "Transactional DB", "description": "Experience time: 15 year, mostly MySQL"}
                 }
             },
 
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-database",
-                "value": 75,
+                "value": 85,
                 "locales": {
-                    "en": {"title": "Transactional DB", "description": "Experience time: 1 year, mostly MySQL"}
+                    "en": {"title": "NoSQL DB", "description": "Experience time: 2 year, mostly AWS DynamoDB"}
                 }
-            },
+            }
+        ],
 
+        "technologies": [
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-database",
-                "value": 75,
+                "faIcon": "fab fa-aws",
+                "value": null,
                 "locales": {
-                    "en": {"title": "NoSQL DB", "description": "Experience time: 1 year, mostly AWS DynamoDB"}
+                    "en": {"title": "AWS Cloud Services", "description": "Knowledgable in AWS services like: S3, SQS, SNS / EB, EC2, Lambda, DynamoDB (plus Stream), API Gateway (plus Authorizer), Cognito"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-php",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Yii2", "description": "Knowledgable in PHP's Yii2 framework, being the main framework being used in attachment."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-wordpress",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Wordpress", "description": "Knowledgable in PHP's Wordpress framework and plugin structure, being the main framework used in freelance."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-bootstrap",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Bootstrap 5", "description": "Well-versed in CSS's Bootstrap 5 framework."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-code-branch",
+                "value": null,
+                "locales": {
+                    "en": {"title": "GIT Repository Management", "description": "Able to assist in management and strategizing GIT workflow."}
                 }
             }
         ],
@@ -219,34 +263,18 @@
         "extra": [
             {
                 "imageIconUrl": null,
-                "faIcon": "fab fa-aws",
+                "faIcon": "fas fa-credit-card",
                 "value": null,
                 "locales": {
-                    "en": {"title": "AWS Cloud Services", "description": "S3, SQS, SNS / EB, EC2, Lambda, DynamoDB (plus Stream), API Gateway (plus Authorizer), Cognito"}
+                    "en": {"title": "Upstream Payment Architecture", "description": "Upstream payment integration, security, and efficiency."}
                 }
             },
             {
                 "imageIconUrl": null,
-                "faIcon": "fab fa-php",
+                "faIcon": "fas fa-user-shield",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Yii2", "description": ""}
-                }
-            },
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-bootstrap",
-                "value": null,
-                "locales": {
-                    "en": {"title": "Bootstrap 5", "description": ""}
-                }
-            },
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-code-branch",
-                "value": null,
-                "locales": {
-                    "en": {"title": "GIT Repository Management", "description": ""}
+                    "en": {"title": "System Security", "description": "System and API security hardening."}
                 }
             }
         ]
