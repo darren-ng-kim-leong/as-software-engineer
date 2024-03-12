@@ -22,7 +22,7 @@
         {
             "id": "experience_item_2",
             "place": "@link{places.freelance}",
-            "period": ["2010/03", "2015/04"],
+            "period": ["2010/03", "2017/01"],
             "locales": {
                 "en": {
                     "title": "Software Engineer",
@@ -34,7 +34,7 @@
         {
             "id": "experience_item_3",
             "place": "@link{places.dynamicpodium}",
-            "period": ["2015/04", "2023/11"],
+            "period": ["2017/01", "2023/11"],
             "locales": {
                 "en": {
                     "title": "Technical Team Lead",
