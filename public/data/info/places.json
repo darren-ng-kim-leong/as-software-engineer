@@ -31,7 +31,7 @@
         "logoUrl": "images/places/thistle_favicon.png",
         "faIcon": "fa fa-users",
         "locales": {
-            "en": {"name": "Thistle& Raindrops"}
+            "en": {"name": "Thistle<sup>&</sup> Raindrops"}
         }
     }
 }
