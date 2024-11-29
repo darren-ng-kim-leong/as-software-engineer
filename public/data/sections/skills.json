@@ -200,6 +200,22 @@
                 }
             },
             {
+                "imageIconUrl": "images/icons/Tencent_Cloud_Logo.svg",
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Tencent Cloud International", "description": "Knowledgable in Tencent Cloud Services and also various solutions that they offer."}
+                }
+            },
+            {
+                "imageIconUrl": "images/icons/Strapi.monogram.logo.png",
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Strapi", "description": "Knowledgable in Strapi open-source Headless CMS that makes API creation easy, and supports any framework."}
+                }
+            },
+            {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-php",
                 "value": null,
@@ -217,10 +233,10 @@
             },
             {
                 "imageIconUrl": null,
-                "faIcon": "fab fa-bootstrap",
+                "faIcon": "fab fa-css3-alt",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Bootstrap 5", "description": "Well-versed in CSS's Bootstrap 5 framework."}
+                    "en": {"title": "CSS Frameworks", "description": "Well-versed in various CSS framework, like Bootstrap 5 framework and more recently Tailwind CSS framework."}
                 }
             },
             {
