@@ -5,7 +5,7 @@
     "locales": {
         "en": {
             "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Fullstack Engineer<br />Solution Architect Consultant"
+            "role": "Chief Technology Officer<br />Solution Architect Consultant<br />Fullstack Engineer"
         }
     },
 
@@ -20,10 +20,10 @@
 
         "email": {
             "id": "email",
-            "value": "darren.ng.kim.leong+as-software-engineer@proton.me",
-            "valueShort": "darren.ng.kim.leong+as-software-engineer@proton.me",
+            "value": "darren.ng@thistle-n-raindrops.com",
+            "valueShort": "darren.ng@thistle-n-raindrops.com",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:darren.ng.kim.leong+as-software-engineer@proton.me"
+            "href": "mailto:darren.ng@thistle-n-raindrops.com"
         },
 
         "github": {

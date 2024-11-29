@@ -230,6 +230,22 @@
                 "locales": {
                     "en": {"title": "GIT Repository Management", "description": "Able to assist in management and strategizing GIT workflow."}
                 }
+            },
+            {
+                "imageIconUrl": "images/icons/Strapi.monogram.logo.png",
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Strapi", "description": "Knowledgable in Strapi open-source Headless CMS that makes API creation easy, and supports any framework."}
+                }
+            },
+            {
+                "imageIconUrl": "images/icons/Tencent_Cloud_Logo.svg",
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Tencent Cloud International", "description": "Knowledgable in Tencent Cloud Services and also various solutions that they offer."}
+                }
             }
         ],
 

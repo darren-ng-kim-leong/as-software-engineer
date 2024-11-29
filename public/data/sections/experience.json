@@ -41,6 +41,33 @@
                     "description": "I joined G2G as a Senior Software Engineer, and worked my way up to Technical Team Lead.<br /><br />In the years of service in G2G, one of the first project I was involved in was the payment architecture and flow that powers all of the payment transactions going into G2G (Online Gamer's Marketplace) and OffGamers (Online Gift Card Store). The project eventually evolved into a standalone system by itself with many more services being introduced into it, with me as the core engineer and the technical lead. The primary focus for this system is the security and the reliability of the payment system and the integration with our payment gateway partners.<br /><br />I was also involved in the development and maintenance of the order system in G2G marketplace, with strong knowledge on order processing and fulfillment process."
                 }
             }
+        },
+
+        {
+            "id": "experience_item_4",
+            "place": "@link{places.freelance}",
+            "period": ["2023/11", "2024/10"],
+            "locales": {
+                "en": {
+                    "title": "Software Consultant / Solution Architect",
+                    "description": "I have successfully led freelance projects, delivering innovative IT solutions that are tailored to meet the unique needs of each client. <br /><br />My work has focused on developing web-based solutions that simplify daily operations, boost productivity, and streamline workflows, addressing real-world challenges faced by businesses. I have also designed and implemented a custom-built website with a fully functional back-end specifically to meet client’s requirement. "
+                                   
+                                    
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_5",
+            "place": "@link{places.thistle}",
+            "period": ["2024/10", "Current"],
+            "locales": {
+                "en": {
+                    "title": "Co-Founder and Chief Technology Officer (CTO)",
+                    "description": "I founded Thistle<sup>&</sup> Raindrops to bridge the gap between large IT service providers and smaller consulting firms, creating a space where businesses could access customized, scalable solutions without unnecessary complexity or cost. Recognizing a growing market need, I focused on delivering innovative and accessible software solutions tailored to each client’s unique challenges. By building trust and providing strategic guidance, I positioned the company as a reliable solutions partner, empowering clients to navigate technological complexities and achieve their goals with confidence."
+                }
+            }
         }
+
     ]
 }

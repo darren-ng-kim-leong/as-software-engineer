@@ -26,5 +26,12 @@
         "locales": {
             "en": {"name": "Freelance"}
         }
+    },
+    "thistle": {
+        "logoUrl": "images/places/thistle_favicon.png",
+        "faIcon": "fa fa-users",
+        "locales": {
+            "en": {"name": "Thistle& Raindrops"}
+        }
     }
 }
